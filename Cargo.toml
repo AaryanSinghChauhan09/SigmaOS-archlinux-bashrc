@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-bashrc component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-bashrc"
+name = "sigmaos_archlinux_bashrc"
 path = "src/lib.rs"
